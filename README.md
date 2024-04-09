@@ -60,3 +60,8 @@ A descrição deve ser clara e concisa, descrevendo o que foi feito no commit.
 - Utilize o imperativo presente ("Adiciona", "Corrige", "Atualiza") na descrição do commit.
 - Limite a linha de descrição do commit a 72 caracteres.
 - Use o corpo do commit para fornecer detalhes adicionais, quando necessário.
+
+## Autor ✍️
+
+**Andressa Gabriele**
+
