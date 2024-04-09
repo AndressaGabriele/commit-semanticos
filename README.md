@@ -20,6 +20,13 @@ Os commits devem seguir o seguinte padrão:
 | refactor   | Refatoração de código, sem adição de novas funcionalidades ou correção de bugs. |
 | test       | Adição ou modificação de testes.                                        |
 | chore      | Tarefas de manutenção, como atualização de dependências ou configurações. |
+| perf       | Alterações relacionadas à otimização de desempenho.                     |
+| revert     | Reverte uma alteração anterior.                                         |
+| build      | Alterações relacionadas ao sistema de build, configurações ou scripts.   |
+| ci         | Alterações relacionadas à integração contínua (CI), pipelines de implantação, etc. |
+| deps       | Alterações relacionadas às dependências do projeto.                     |
+| merge      | Commits de merge resultantes da mesclagem de branches.                   |
+| release    | Commits que marcam uma versão específica do projeto.                    |
 
 ### Escopo (opcional)
 
