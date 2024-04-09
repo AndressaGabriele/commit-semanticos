@@ -1,4 +1,4 @@
-# Guia de Commits Semânticos
+# Guia de Commits Semânticos Simplificado 👻
 
 Este guia descreve as convenções para mensagens de commit semântico, utilizando uma abordagem padronizada para manter um histórico de alterações claro e organizado.
 
