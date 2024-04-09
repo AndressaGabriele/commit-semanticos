@@ -63,5 +63,5 @@ A descrição deve ser clara e concisa, descrevendo o que foi feito no commit.
 
 ## Autor ✍️
 
-**Andressa Gabriele**
+Este guia de commits semânticos foi criado por [Andressa Gabis 👽](https://github.com/AndressaGabriele).
 
