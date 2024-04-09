@@ -6,7 +6,7 @@ Este guia descreve as convenções para mensagens de commit semântico, utilizan
 
 Os commits devem seguir o seguinte padrão:
 
-- <tipo>(<escopo opcional>): <descrição>
+- `<tipo>(<escopo opcional>): <descrição>`
 
 
 ### Tipos de Commit
