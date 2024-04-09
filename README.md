@@ -45,6 +45,14 @@ A descrição deve ser clara e concisa, descrevendo o que foi feito no commit.
 - `refactor(api): Refatora método de busca para melhorar desempenho`
 - `test(api): Adiciona teste para endpoint de registro`
 - `chore(dependencies): Atualiza versões das dependências`
+- `perf(api): Otimiza consulta de banco de dados`
+- `revert(featureX): Reverte adição da funcionalidade X`
+- `build(docker): Atualiza configurações do Dockerfile`
+- `ci(pipeline): Adiciona estágio de teste de integração ao pipeline`
+- `deps(package.json): Atualiza pacote 'axios' para a versão 2.0.0`
+- `merge(featureY): Merge branch 'featureY' into 'main'`
+- `release(v1.2.3): Marca a versão 1.2.3 como release`
+
 
 ## Convenções Adicionais
 
